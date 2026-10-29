@@ -1,6 +1,3 @@
-streamlit>=1.39,<2
+streamlit>=1.40,<2
 pandas>=2.2,<3
-numpy>=1.26,<3
-# Community Cloud currently uses Python 3.14; Altair 6 includes its
-# Python 3.14 compatibility fixes.
-altair>=6.1,<7
+plotly>=5.24,<7
